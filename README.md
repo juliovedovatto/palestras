@@ -1,11 +1,3 @@
-# Palestras
-
-
-Palestras que apresentei em eventos de desenvolvimento/TI.
-
-----
-
-
 [O aumento da complexidade Frontend](https://drive.google.com/open?id=1BJq3Im83frGh6scJUqpvT_ZwU03wLGpNVijVKqfbxPo)
 ----
 **Data:**  12/05/2018

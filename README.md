@@ -4,6 +4,13 @@
 Palestras que apresentei em eventos de desenvolvimento/TI.
 
 
+[O aumento da complexidade Frontend](https://docs.google.com/presentation/d/1mnqDPfEJe2_iyqAuL92kDDIulLgoPJpr2WrtkVJ9QR4/edit#slide=id.p)
+----
+- **Data:**  17/11/2018
+- **Local:** EVOA Aceleradora - Maringá
+- **Organização:** [FEMUG MGA](https://github.com/femugmga)  
+- **Evento:** [18º Encontro FEMUG Maringá](https://www.meetup.com/pt-BR/femugmga/events/256274231/)
+
 [O aumento da complexidade Frontend](https://drive.google.com/open?id=1BJq3Im83frGh6scJUqpvT_ZwU03wLGpNVijVKqfbxPo)
 ----
 - **Data:**  12/05/2018
@@ -14,7 +21,7 @@ Palestras que apresentei em eventos de desenvolvimento/TI.
 
 [Node.js vs PHP para desenvolvimento Server-Side](https://drive.google.com/open?id=11exCNXKAT5z42H2Ebk2YqqW_lKSGTHQECr6XDaSVKoM)
 ----
-- **Data:**  11/05/2018
+- **Data:**  10/05/2018
 - **Local:** DB1 Global Software - Maringá
 - **Organização:** [BEMUG](https://github.com/bemugmga)  
 - **Evento:** [7º Encontro Backend Meetup Group Maringá](https://www.meetup.com/pt-BR/developerparana/events/250133057/)

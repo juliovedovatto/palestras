@@ -4,7 +4,7 @@
 Palestras que apresentei em eventos de desenvolvimento/TI.
 
 
-[O aumento da complexidade Frontend](https://docs.google.com/presentation/d/1mnqDPfEJe2_iyqAuL92kDDIulLgoPJpr2WrtkVJ9QR4/edit#slide=id.p)
+[Como reduzir o impacto do JavaScript no tempo de carregamento da sua página](https://docs.google.com/presentation/d/1mnqDPfEJe2_iyqAuL92kDDIulLgoPJpr2WrtkVJ9QR4/edit#slide=id.p)
 ----
 - **Data:**  17/11/2018
 - **Local:** EVOA Aceleradora - Maringá

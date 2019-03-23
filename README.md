@@ -2,7 +2,14 @@
 
 
 Palestras que apresentei em eventos de desenvolvimento/TI.
+----
 
+[O que faz alguém ser um bom dev front end?](https://docs.google.com/presentation/d/1QKZgHolfbU6V-1d7ye5wdr7pl2zg7dYpd8qOdtvALC0/edit?usp=sharing)
+----
+- **Data:**  23/03/2019
+- **Local:** Sumério Cervejas Especiais - Maringá
+- **Organização:** [FEMUG MGA](https://github.com/femugmga)  
+- **Evento:** [20º Encontro FEMUG Maringá](https://www.meetup.com/pt-BR/femugmga/events/259689334/)
 
 [Como reduzir o impacto do JavaScript no tempo de carregamento da sua página](https://docs.google.com/presentation/d/1mnqDPfEJe2_iyqAuL92kDDIulLgoPJpr2WrtkVJ9QR4/edit#slide=id.p)
 ----

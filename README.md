@@ -2,9 +2,10 @@
 
 
 Palestras que apresentei em eventos de desenvolvimento/TI.
-----
+
 
 [O que faz alguém ser um bom dev front end?](https://docs.google.com/presentation/d/1QKZgHolfbU6V-1d7ye5wdr7pl2zg7dYpd8qOdtvALC0/edit?usp=sharing)
+----
 - **Data:**  23/03/2019
 - **Local:** Sumério Cervejas Especiais - Maringá
 - **Organização:** [FEMUG MGA](https://github.com/femugmga)  

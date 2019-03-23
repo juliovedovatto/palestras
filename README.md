@@ -10,7 +10,6 @@ Palestras que apresentei em eventos de desenvolvimento/TI.
 - **Local:** Sumério Cervejas Especiais - Maringá
 - **Organização:** [FEMUG MGA](https://github.com/femugmga)  
 - **Evento:** [20º Encontro FEMUG Maringá](https://www.meetup.com/pt-BR/femugmga/events/259689334/)
-----
 
 [Como reduzir o impacto do JavaScript no tempo de carregamento da sua página](https://docs.google.com/presentation/d/1mnqDPfEJe2_iyqAuL92kDDIulLgoPJpr2WrtkVJ9QR4/edit#slide=id.p)
 ----
